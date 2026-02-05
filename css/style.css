@@ -1,0 +1,41 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+.card {
+    padding: 5px;
+    margin: 20px auto;
+    width: 50%;
+    box-sizing: content-box;
+}
+.header,
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.header {
+    color: gold;
+    font-size: 100px;
+    background-color: saddlebrown;
+    margin: 67px;
+    border: 2px goldenrod;
+    border-style: solid
+    
+}
+.recipes {
+    display: block;
+}
+
+.list {
+    padding: 40px;
+    width: 50%;
+    margin: auto;
+}
+li {
+    color: black;
+    background-color: gray;
+    margin: 30px;
+    border: 2px black;
+    border-style: solid;
+    
+}
